@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Yous have to install the following things 
+
+React Router DOM ,
+React bootstrap ,
+Axios
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
