@@ -6,6 +6,9 @@ React Router DOM ,
 React bootstrap ,
 Axios
 
+
+DOSSIER adminspace : fichier dashboard where ther's all the stuff about the admin
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
